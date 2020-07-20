@@ -1,5 +1,5 @@
 ---
-title: First Post
+title: Test Post
 author: Chris
 layout: post
 ---
